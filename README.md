@@ -1,4 +1,4 @@
-# Serv00-qisu10-20
+# Serv00:S9-qisu10-20
  使用Node.Js模拟网页端自动定时登录Serv00、CT8的web面板，实现账号保活。
 
 
